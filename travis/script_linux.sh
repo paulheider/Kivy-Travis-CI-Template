@@ -14,4 +14,4 @@ pip install -r tests/requirements.txt
 pip install -r requirements.txt
 
 # runs tests
-echo "Hello, world."
+python -m pytest tests
